@@ -4,8 +4,7 @@
     "require": {
         "php": ">=7.3",
         "beyondcode/laravel-websockets": "^1.0",
-        "hyn/multi-tenant": "^5.3",
-        "illuminate/encryption": "^5.7"
+        "hyn/multi-tenant": "^5.3"
     },
     "license": "MIT",
     "authors": [
