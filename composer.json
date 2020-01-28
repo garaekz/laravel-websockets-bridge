@@ -17,6 +17,7 @@
             "email": "eric@thefletcher.net"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Tenancy\\LaravelWebsockets\\": "src/"
