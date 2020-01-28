@@ -1,5 +1,5 @@
 {
-    "name": "tenancy/laravel-websockets-bridge",
+    "name": "garaekz/laravel-websockets-bridge",
     "description": "Package to bridge beyondcode/laravel-websockets to hyn/multi-tenant.",
     "require": {
         "php": ">=7.3",
@@ -8,6 +8,10 @@
     },
     "license": "MIT",
     "authors": [
+        {
+            "name": "David Garay",
+            "email": "david@dagacoding.com"
+        },
         {
             "name": "Eric Fletcher",
             "email": "eric@thefletcher.net"
